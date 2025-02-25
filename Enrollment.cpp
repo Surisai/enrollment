@@ -1,5 +1,4 @@
 
-///work!
 #include <iostream>
 #include <fstream>
 #include <cstring>

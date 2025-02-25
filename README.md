@@ -1,4 +1,4 @@
-# AnThropology Club Enrollment System
+# Anthropology Club Enrollment System
 
 
 ## Overview

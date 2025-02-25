@@ -1,0 +1,18 @@
+Enter student ID: 12343219
+Enter student name: Alic Premar
+Enter student course: Anthoropoly
+Student Alic Premar is not enrolled in Anthropology.
+Unable to open file.
+Do you want to add another student? (yes/no): yes
+Enter student ID: 18918902
+Enter student name: Sam Smith
+Enter student course: anthropolgy
+Student Sam Smith is not enrolled in Anthropology.
+Unable to open file.
+Do you want to add another student? (yes/no): yes
+Enter student ID: 12345674
+Enter student name: Freeda fisher
+Enter student course: Anthropology
+Student Freeda fisher enrolled in Anthropology Club.
+Unable to open file.
+Do you want to add another student? (yes/no): no
